@@ -1,5 +1,6 @@
-public class HelloWorld {
-    public static void main(String[] args) {
-        System.out.println("Hello, Jenkins + Maven!");
-    }
-}
+<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
+<html>
+  <body>
+    <h1>Hello, Jenkins + Maven!</h1>
+  </body>
+</html>

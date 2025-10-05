@@ -104,13 +104,13 @@ Go to:
 
 Check Console Output — should show:
 [INFO] BUILD SUCCESS
-----
-Cansole output 
 ---
 ## screenshorts
+----
+ ![Branches](https://github.com/gawali-priyanka/jenkins-maven-demo/blob/1/screenshorts/Build.png?raw=true)
 ---
 Access from browser
 ----
-![Branches](https://github.com/gawali-priyanka/Monitor-System-Resources-Using-Netdata/blob/main/screenshots/Access-dashbord1.png?raw=true)
+![Branches]()
 ---
 

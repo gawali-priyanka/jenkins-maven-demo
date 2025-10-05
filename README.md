@@ -109,8 +109,5 @@ Check Console Output — should show:
 ----
  ![Branches](https://github.com/gawali-priyanka/jenkins-maven-demo/blob/1/screenshorts/Build.png?raw=true)
 ---
-Access from browser
-----
-![Branches]()
----
+
 
